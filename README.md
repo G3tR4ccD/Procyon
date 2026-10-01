@@ -26,8 +26,6 @@ That makes 24 models in total.
 
 Right now this project holds models only. There are no scripts yet.
 
-<!-- Add the tool you modeled in (e.g. Blender) and any license or usage notes here. -->
-
 ## What I practiced
 
 - Low-poly modeling with clean, simple shapes.
